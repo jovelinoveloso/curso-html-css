@@ -1,1 +1,1 @@
-# curso-html-css
+# exercicios
